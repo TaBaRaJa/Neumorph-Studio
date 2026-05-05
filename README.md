@@ -12,6 +12,12 @@ View your app in AI Studio: https://ai.studio/apps/448b58d1-3bf2-42eb-b416-dc974
 
 **Prerequisites:**  Node.js
 
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
+
 # 🎨 Neumorphism Generator Clone
 
 Este projeto consiste na reconstrução de um gerador de design no estilo neumorfismo, inspirado no site Neumorphism.io, desenvolvido como atividade prática de engenharia reversa com apoio de inteligência artificial.
@@ -47,10 +53,3 @@ Aplicar conceitos de engenharia reversa sem acesso ao código-fonte original, ut
 - Desenvolvimento assistido por IA  
 - Manipulação dinâmica do DOM  
 - UI/UX no estilo Neumorphism (Soft UI) 
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
