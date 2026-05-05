@@ -12,6 +12,42 @@ View your app in AI Studio: https://ai.studio/apps/448b58d1-3bf2-42eb-b416-dc974
 
 **Prerequisites:**  Node.js
 
+# 🎨 Neumorphism Generator Clone
+
+Este projeto consiste na reconstrução de um gerador de design no estilo neumorfismo, inspirado no site Neumorphism.io, desenvolvido como atividade prática de engenharia reversa com apoio de inteligência artificial.
+
+## 🚀 Sobre o projeto
+
+A aplicação permite ao usuário gerar estilos visuais no padrão neumórfico de forma interativa, ajustando propriedades como cor, distância da sombra, desfoque (blur) e intensidade, com atualização em tempo real.
+
+O sistema também exibe dinamicamente o código CSS correspondente, possibilitando sua reutilização em outros projetos.
+
+## 🧠 Objetivo
+
+Aplicar conceitos de engenharia reversa sem acesso ao código-fonte original, utilizando análise da interface e desenvolvimento assistido por IA para reconstrução funcional do sistema.
+
+## 🛠 Tecnologias utilizadas
+
+- HTML5  
+- CSS3 (com foco em box-shadow)  
+- JavaScript (manipulação do DOM)
+
+## ⚙️ Funcionalidades
+
+- 🎨 Alteração de cor de fundo  
+- 🎚 Controle de distância da sombra  
+- 🌫 Ajuste de blur (desfoque)  
+- 💡 Controle de intensidade  
+- 🔄 Atualização em tempo real  
+- 📋 Exibição e cópia do código CSS  
+
+## 🧩 Conceitos aplicados
+
+- Engenharia reversa de interface  
+- Desenvolvimento assistido por IA  
+- Manipulação dinâmica do DOM  
+- UI/UX no estilo Neumorphism (Soft UI) 
+
 
 1. Install dependencies:
    `npm install`
